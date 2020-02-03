@@ -1,2 +1,2 @@
 # hello
-to relearn github
+This repo is created to relearn github.
